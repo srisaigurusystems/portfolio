@@ -278,7 +278,7 @@ header {
   align-items: center;
   text-align: center;
   padding: 120px 8% 80px 8%;
-  background: linear-gradient(to bottom, rgba(248, 250, 252, 0.82), rgba(248, 250, 252, 0.92)), url('../images/Hero.png') no-repeat center center/cover;
+  background: linear-gradient(to bottom, rgba(248, 250, 252, 0.82), rgba(248, 250, 252, 0.92)), url('../images/Hero.png?v=1.0.1') no-repeat center center/cover;
   position: relative;
   overflow: hidden;
 }
